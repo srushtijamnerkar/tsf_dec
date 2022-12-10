@@ -1,0 +1,23 @@
+#navbar{
+flex-direction: column;
+align-items: center;
+justify-content: center;
+}
+
+.logo{
+    align-items: center;
+    justify-content: center;
+    margin-left: -300px;
+}
+
+#home{
+}
+
+.services-1{
+    flex-direction: column;
+
+}
+
+#contact{
+
+}
